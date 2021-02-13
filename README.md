@@ -30,3 +30,7 @@ MuLC or Multi-label Classification is a python script aimed to help with multi-l
 - `mlb.pickle` is used to hold class names in a serialized data structure. 
 - `plot.png` is used to plot accuracy and loss.
 - `train.py` is used to train the classifier.
+
+# Acknowledgements
+
+This project was taken from [PyImageSearch](https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/) written by Adrian Rosebrock.
